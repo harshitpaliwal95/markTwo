@@ -1,7 +1,7 @@
 # markTwo
 CLI app Quiz game for naruto fans
-</br>
-</br>
+<br>
+<br>
 total 7 question i add in this quiz 
 
 1. Who is naruto's first teacher
