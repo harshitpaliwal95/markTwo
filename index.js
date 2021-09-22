@@ -28,7 +28,6 @@ function welcome(){
   }
 }
 
-
 // current score 
 function currentScore(score){
   console.log("current score is " + score);
@@ -80,7 +79,6 @@ function play(){
     }
   }
 }
-
 
 // for result
 function result(){
